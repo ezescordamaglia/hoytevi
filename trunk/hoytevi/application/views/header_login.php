@@ -33,7 +33,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?=base_url()?>">HOY TE VI</a>
+      <a class="navbar-brand" href="<?=base_url()?>">LOGO</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
